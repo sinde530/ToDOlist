@@ -1,5 +1,4 @@
 import styled from '@emotion/styled';
-import './App.css';
 import TodoContext from './components/TodoContext';
 import TodoCreate from './components/TodoCreate';
 import TodoHead from './components/TodoHead';
